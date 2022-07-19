@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SalmanFarizJ
+- 👋 Hi, I’m @SalmanJ
 - 👀 I’m interested in Video Editing
 - 🌱 I’m currently learning Front end developing in Spotknack
 - 📫 Reach me salmansvs7917@gmail.com
